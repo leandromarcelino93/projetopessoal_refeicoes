@@ -1,16 +1,20 @@
-# projetopessoal_refeicoes
+## Apresentação 
 
-A new Flutter project.
+Projeto realizado para fins didáticos e baseado no projeto de referência da seção 7 do curso da Cod3r, cujo qual possui objetivo voltado a criar um aplicativo de receitas que dispõe de duas abas principais e um Drawer com acesso a tela de configurações. O usuário possui a sua disposição diversas receitas separadas por Categorias, onde ele pode verificar tempo de preparo, nível de custo, modo de preparo e, caso goste da receita, pode favoritá-la para ser exibida na tela de Favoritos. Caso possua restrições quanto a consumo, o usuário pode utilizar os filtros presentes em Configurações para setar os pratos exibidos de acordo com sua necessidade. São quatro filtros disponíveis: glúten, lactose, vegana e vegetariana.
 
-## Getting Started
+## Demonstração 
 
-This project is a starting point for a Flutter application.
+Demonstração parte 1: 
+![demonstracao_refeicoes_pt1](https://user-images.githubusercontent.com/109693767/222471345-9cfb7ae6-acef-43d6-a048-b0e92b55e7b9.gif)
 
-A few resources to get you started if this is your first Flutter project:
+Demonstração parte 2: 
+![demonstracao_refeicoes_pt2](https://user-images.githubusercontent.com/109693767/222471373-84b3b98c-21b6-4d6c-98e6-301a062d3a31.gif)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Aprendizados:
+* A
+* A
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## :hammer_and_wrench:	Como rodar o projeto? 
+
+* Preferencialmente, tenha uma IDE (Integrated Development Environment - Ambiente de desenvolvimento integrado) instalada em sua máquina, que pode ser Android Studio, IntelliJ ou um editor como o VSCode. 
+* Ter instalado a SDK do Flutter na versão 3.0.0
