@@ -1,6 +1,6 @@
 ## Apresentação 
 
-Projeto realizado para fins didáticos e baseado no projeto de referência da seção 7 do curso da Cod3r, cujo qual possui objetivo voltado a criar um aplicativo de receitas que dispõe de duas abas principais e um Drawer com acesso a tela de configurações. O usuário possui à sua disposição diversas receitas separadas por Categorias, onde ele pode verificar tempo de preparo, nível de custo, modo de preparo e, caso goste da receita, pode favoritá-la para ser exibida na tela de Favoritos. Caso possua restrições quanto a consumo, o usuário pode utilizar os filtros presentes em Configurações para setar os pratos exibidos de acordo com sua necessidade. São quatro filtros disponíveis: glúten, lactose, vegana e vegetariana.
+Projeto realizado para fins didáticos e baseado no projeto de referência da seção 7 do curso da Cod3r, cujo qual possui objetivo voltado a criar um aplicativo de receitas que dispõe de duas abas principais e um Drawer com acesso à tela de configurações. O usuário possui à sua disposição diversas receitas separadas por Categorias, onde ele pode verificar tempo de preparo, nível de custo, modo de preparo e, caso goste da receita, pode favoritá-la para ser exibida na tela de Favoritos. Caso possua restrições quanto a consumo, o usuário pode utilizar os filtros presentes em Configurações para setar os pratos exibidos de acordo com sua necessidade. São quatro filtros disponíveis: glúten, lactose, vegana e vegetariana.
 
 ## Demonstração 
 
