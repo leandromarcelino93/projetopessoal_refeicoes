@@ -16,7 +16,7 @@ Demonstração parte 2:
 * InkWell para tornar os elementos clicáveis
 * Rotas nomeadas 
 * Conceituação sobre Navegação entre telas 
-   *push, pushNamed, pushReplacementNamed e pop
+   * push, pushNamed, pushReplacementNamed e pop
 * BottomNavigationBar para alocar as abas na parte inferior 
 * Drawer
 * Mais comunicações tanto diretas quanto indiretas
